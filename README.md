@@ -1,3 +1,3 @@
 # Sentiment_Analysis
-Sentiment Analysis using Python
+Sentiment Analysis of Medibank using Python
 
